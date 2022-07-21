@@ -1,4 +1,4 @@
-#passgen
+#password generator
 
 import random
 lower_case = "abcdefghijklmnopqrstuvwxyz"
