@@ -1,4 +1,4 @@
 - Greetings, my name is Jeremiah.
 - I’m interested in network security and coding with Python
 - I’m currently learning Computer science at the University of Maryland 
-- I’m willing to collaborate on various projects within python to further heighten my skills and cooperation experiance
+- I’m willing to collaborate on various projects within python to further heighten my skills and cooperation experience
